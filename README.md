@@ -1,1 +1,2 @@
 # Randomized-Golf-Simulator
+This golf simulator started as a straightforward console application but transformed into an interactive visual experience using Java Swing. Players enter their name and handicap, pick clubs with a click, and see real-time feedback, including strokes taken, shanks, and yardage. Golf scores are displayed in terms like birdie and bogey, with accurate handling of added strokes for shanked shots. The project strikes a balance between technical precision and user-friendly gameplay, bringing the essence of golf to life in a digital format.
